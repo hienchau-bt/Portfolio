@@ -78,4 +78,17 @@ My research interests are centered on **Medicinal Chemistry**, specifically the 
   + *Description:* Analyzing volatile organic compounds in medicinal plant extracts by GC-MS; Quantifying total phenolic content and detecting specific phenolic compounds by comparing standard solutions via TLC; Determining antioxidant, antibacterial, and anti-tyrosinase activities of plant extracts by screening assays.
   </div>
 
-  
+---
+
+## **📚 Outputs**
+### **📗 Publications**
+- **Chau, H.**, & Nguyen, T. (2024). Antimicrobial activities of *Docynia indica* fruit extracts. World Journal of Pharmacy and Pharmaceutical Sciences, 13(5), 1-10. [DOI: 10.20959/wjpps20245-26892](https://www.wjpps.com/Wjpps_controller/abstract_id/20195)
+
+### **📕 Submitted Manuscripts**
+- **Châu, N. T. H.**, Nguyễn, D. P., Trương, H. A. V., & Nguyễn, H. K. T. (submitted). Hợp chất hữu cơ dễ bay hơi và hoạt tính ức chế tyrosinase của dịch chiết quả táo mèo (*Docynia indica*) [Volatile organic compounds and anti-tyrosinase activity of *Docynia indica* fruit extracts]. Manuscript submitted to Tạp chí Phân tích Hóa, Lý và Sinh học [Journal of Analytical Sciences].
+
+### **📘 Conference Presentations**
+#### ***Poster Presentation***
+- **Chau, N. T. H.**, & Nguyen, H. K. T. (2023, November). Composition, polyphenol content, antimicrobial and antioxidant activity of *Docynia indica* fruit extract. Fourth Scientific Conference for Students 2023, International University - VNU HCMC, Ho Chi Minh City, Vietnam.
+
+
