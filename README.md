@@ -20,18 +20,62 @@ My research interests are centered on **Medicinal Chemistry**, specifically the 
 
 ## **🎓 Education**
 - ### **International University - Vietnam National University Ho Chi Minh City**
-  ***2022 - Present***
+  **2022 - Present**
   |:-----------------:|
-  + **Master of Science** | **Biotechnology**
+  + ***Master of Science*** | ***Biotechnology***
   + GPA: 89.5/100 (3.58/4.0)
 - ### **International University - Vietnam National University Ho Chi Minh City**
-  ***2016 - 2020***
+  **2016 - 2020**
   |:-----------------:|
-  + **Bachelor of Science** | **Biotechnology**
+  + ***Bachelor of Science*** | ***Biotechnology***
   + GPA: 75.7/100 (3.07/4.0)
 
 ---
 
 ## **🥼 Research Experience**
+- ### **Master's Thesis** | **International University - Vietnam National University Ho Chi Minh City**
+  |**April 2023 - April 2026**|
+  |:-----------------:|
+  
+  |**Supervior:** Assoc. Prof. Nguyen Hoang Khue Tu|
+  |:----------------------------------------:|
+  <div align="justify">
+ 
+  + ***Title:*** "Investigating phytochemicals and biological activities of *Docynia indica* fruits collected in Kon Tum towards standardizing for drug development."
+  </div>
+  <div align="justify">
+ 
+  + *Description:* Fractioning and analyzing phytochemicals in medicinial plant extract by TLC and UPLC-MS/MS; Studying mechanisms of action of antibacterial, antioxidant, anti-lipid peroxidation, and anti-tyrosinase activities using in-depth assays; Predicting interactions between ligands and human CYP1A2 protein via *in silico* molecular docking.
+  </div>
 
+- ### **Student Research Project** | **International University - Vietnam National University Ho Chi Minh City**
+  |**April 2023 - April 2026**|
+  |:-----------------:|
+  
+  |**Supervior:** Assoc. Prof. Nguyen Hoang Khue Tu|**Role:** Principle Investigator|
+  |:----------------------------------------:|:---------------------------------|
+  <div align="justify">
+ 
+  + ***Title:*** "Volatile compounds, total phenolic contents with antimicrobial, antioxidant, tyrosinase inhibition and cytotoxicity of *Docynia indica* fruit extracts."
+  </div>
+  <div align="justify">
+ 
+  + *Description:* Obtaining medicinal plant extracts by different extraction methods; Analyzing volatile organic compounds by GC-MS; Conducting antimicrobial, antioxidant, and tyrosinase inhibitory assays; Assessing cytotoxicity on mouse fibroblasts by MTT assay.
+  </div>
 
+- ### **Bachelor's Thesis** | **International University - Vietnam National University Ho Chi Minh City**
+  |**May 2020 - September 2020**|
+  |:-----------------:|
+  
+  |**Supervior:** Assoc. Prof. Nguyen Hoang Khue Tu|
+  |:----------------------------------------:|
+  <div align="justify">
+ 
+  + ***Title:*** "Volatile compounds, total phenolic contents with antimicrobial, antioxidant and anti-tyrosinase activities of *Docynia indica* fruit extracts."
+  </div>
+  <div align="justify">
+ 
+  + *Description:* Analyzing volatile organic compounds in medicinal plant extracts by GC-MS; Quantifying total phenolic content and detecting specific phenolic compounds by comparing standard solutions via TLC; Determining antioxidant, antibacterial, and anti-tyrosinase activities of plant extracts by screening assays.
+  </div>
+
+  
