@@ -154,4 +154,4 @@ My research interests are centered on **Medicinal Chemistry**, specifically the 
 
 ## **🌏 Languages**
 - **Vietnamese** (Native)
-- **English** (IELTS 6.0)
+- **English** ([<span style="display:inline-block;padding:10px 24px;font-size:16px;font-weight:bold;color:#fff;background-color:#2185d0;border-radius:5px;text-decoration:none;border:none;">IELTS 6.0</span>](https://drive.google.com/file/d/1yr1SdP20ekxk1pkVeVV3CODe7uuojuIg/view?usp=drive_link))
