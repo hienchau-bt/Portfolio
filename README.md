@@ -8,8 +8,8 @@
 |:--:|
 
 [<img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_32x32.png" alt="ORCID" width="35"/>](https://orcid.org/0009-0000-0324-7429)
-[<img src="https://educacionenlinea.org/wp-content/uploads/2022/06/Google-Scholar.png" alt="Google Scholar" width="32"/>](https://scholar.google.com/citations?user=R5hYJs8AAAAJ&hl=en)
-
+[<img src="https://educacionenlinea.org/wp-content/uploads/2022/06/Google-Scholar.png" alt="Google Scholar" width="35"/>](https://scholar.google.com/citations?user=R5hYJs8AAAAJ&hl=en)
+[<img src="https://images.assets-landingi.com/2IjMMhjp/Linkedin_logo.png" alt="LinkedIn" width="35"/>](https://www.linkedin.com/in/hien-chau-6587481b9/)
 
 ---
 
