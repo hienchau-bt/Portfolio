@@ -7,7 +7,8 @@
 **Download CV:** [<span style="display:inline-block;padding:10px 24px;font-size:16px;font-weight:bold;color:#fff;background-color:#2185d0;border-radius:5px;text-decoration:none;border:none;">PDF</span>](https://drive.google.com/file/d/1s0SuEc90YhUSVLRCLSNtYWs4f3_USRks/view?usp=drive_link)
 |:--:|
 
-<img width="140" height="76.8" alt="image" src="https://github.com/user-attachments/assets/14b6100e-a216-4367-abc2-3acc4636e192" />
+[ORCID](https://orcid.org/0009-0000-0324-7429)
+
 
 
 ---
